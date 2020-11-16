@@ -1,4 +1,4 @@
-# mern_tutorial_tinder
+# MERN Tinder clone
 
 ## Goals
 1. Learn MERN stack
